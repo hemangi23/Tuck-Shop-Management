@@ -26,16 +26,16 @@ We have to install **CODE BLOCKS IDE (GCC COMPILER)**
 Technology used in it is C++.
 
 CODE BLOCKS IDE
-Open the code blocks.
-Click on create a new project.
-Click on Console Application.
-Make a selection.
-Enter the name of the project ( eg: project.cpp) [.cpp is the extension for c++ projects]
-CLick on Finish.
+* Open the code blocks.
+* Click on create a new project.
+* Click on Console Application.
+* Make a selection.
+* Enter the name of the project ( eg: project.cpp) [.cpp is the extension for c++ projects]
+* CLick on Finish.
 
-For the above mentioned project:
-For owner login we need to have a password for it, and here it is: SCHOOL@23
-For the employee login same we need to have  a password for it, and here it is: EMPLOYEE@5
+###### For the above mentioned project:
+* For owner login we need to have a password for it, and here it is: SCHOOL@23
+* For the employee login same we need to have  a password for it, and here it is: EMPLOYEE@5
 
 ### DEMO LINK:
 
