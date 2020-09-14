@@ -1,2 +1,3 @@
 # Tuck-Shop-Management
-Owner Pass: SCHOOL@23, Employee Pass: EMPLOYEE@5
+Owner Pass: SCHOOL@23
+Employee Pass: EMPLOYEE@5
