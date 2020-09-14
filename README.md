@@ -34,9 +34,6 @@ CODE BLOCKS IDE
 * Enter the name of the project ( eg: project.cpp) [.cpp is the extension for c++ projects]
 * CLick on Finish.
 
-###### For the above mentioned project:
-* For owner login we need to have a password for it, and here it is: SCHOOL@23
-* For the employee login same we need to have  a password for it, and here it is: EMPLOYEE@5
 
 ### DEMO LINK:
 
