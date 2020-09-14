@@ -32,7 +32,7 @@ CODE BLOCKS IDE
 * Click on Console Application.
 * Make a selection.
 * Enter the name of the project ( eg: project.cpp) [.cpp is the extension for c++ projects]
-* CLick on Finish.
+* Click on Finish.
 
 
 ### DEMO LINK:
