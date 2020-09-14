@@ -1,4 +1,5 @@
 # Tuck-Shop-Management
+ readme-edits
 # Functionality of the code:
 Our Code is based on Tuck Shop Management System. This software is supported to eliminate and in some cases reduce the hardships faced. Moreover this system is designed for the particular need of the canteen to carry out operation in smooth and effective manner.
 
@@ -49,3 +50,7 @@ CODE BLOCKS IDE
 
 
 
+
+Owner Pass: SCHOOL@23
+Employee Pass: EMPLOYEE@5
+master
